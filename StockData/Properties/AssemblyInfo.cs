@@ -10,7 +10,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("StockData")]
-[assembly: AssemblyCopyright("Copyright © 2009-2012 Zeta Centauri")]
+[assembly: AssemblyCopyright("Copyright © 2009-2013 Zeta Centauri")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

@@ -16,8 +16,8 @@ RequestExecutionLevel admin
   VIProductVersion "1.0.1.0"
   VIAddVersionKey /LANG=${LANG_ENGLISH} "ProductName" "Champion Stock Chart Viewer"
   VIAddVersionKey /LANG=${LANG_ENGLISH} "CompanyName" "Zeta Centauri"
-  VIAddVersionKey /LANG=${LANG_ENGLISH} "LegalCopyright" "Copyright 2007-2012 Zeta Centauri"
-  VIAddVersionKey /LANG=${LANG_ENGLISH} "FileDescription" "Champion Stock Chart Viewer Installer"
+  VIAddVersionKey /LANG=${LANG_ENGLISH} "LegalCopyright" "Copyright 2007-2013 Zeta Centauri"
+  VIAddVersionKey /LANG=${LANG_ENGLISH} "FileDescription" "Stock Chart Viewer Installer"
   VIAddVersionKey /LANG=${LANG_ENGLISH} "FileVersion" "1.0.1.0"
   VIAddVersionKey /LANG=${LANG_ENGLISH} "ProductVersion" "1.0.1.0"
 

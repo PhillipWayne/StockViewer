@@ -938,7 +938,7 @@ namespace ChampionCharts
 
         private void aboutToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Champion Stock Chart Viewer 1.01\nCopyright (c) 2009-2012 Zeta Centauri, Inc.\nhttp://zetacentauri.com");
+            MessageBox.Show("Champion Stock Chart Viewer 1.01\nCopyright (c) 2009-2013 Zeta Centauri, Inc.\nThis program is released under the MIT License.\nhttp://zetacentauri.com");
         }
 
         private void setForegroundColorToolStripMenuItem_Click(object sender, EventArgs e)
