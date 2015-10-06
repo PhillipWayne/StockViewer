@@ -1,11 +1,15 @@
 StockViewer
 ===========
 
-A simple stock chart viewer.
+A simple stock chart viewer. It was originally released at http://zetacentauri.com
 
-A compiled, installable version of the Champion Stock Chart Viewer is available at:
+![Stock Chart Viewer Screenshot 1](https://github.com/Xangis/StockViewer/blob/master/Images/CSCVScreen1.png)
 
-http://zetacentauri.com/software_stockchartviewer.htm
+![Stock Chart Viewer Screenshot 2](https://github.com/Xangis/StockViewer/blob/master/Images/CSCVScreen2.png)
+
+![Stock Chart Viewer Screenshot 3](https://github.com/Xangis/StockViewer/blob/master/Images/CSCVScreen3.png)
+
+A prebuilt Windows installer is available in the Installer directory.
 
 The Stock Chart Viewer is written using C# and .NET 2.0.  It builds and runs on Windows.
 A project is included for Visual Studio 11. It doesn't have any complicated dependencies,
